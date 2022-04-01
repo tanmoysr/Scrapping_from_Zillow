@@ -14,3 +14,7 @@ pip install bs4
 Save the address in the text file. Please check the given file format.
 Put the correct file names for file_name and saving_file_name variables.
 Run the scrapping_zillow.py
+
+## Acknowledgement
+This [tutorial](https://www.youtube.com/watch?v=pzptMqULnyE) was very helpful to complete the code.
+
